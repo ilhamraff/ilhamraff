@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Ilham Rafi Fadhilah**.<br>
 
-Saya adalah seorang Mahasiswa Informatika dari Institut Teknologi Nasional Bandung!
-
-Kini saya sedang mengikuti Program Studi Independen Kampus Merdeka di Dicoding Academy!
 
 <p align="left">
 <a href="https://github.com/ilhamraff">
